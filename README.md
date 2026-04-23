@@ -22,7 +22,7 @@ If you use this code in your research, please cite:
   journal       = {IEEE Open Journal of the Computer Society},
   title         = {{Learning Reconstructive Embeddings in Reproducing Kernel Hilbert Spaces via the Representer Theorem }},
   year          = {2026},
-  month         = apr
+  month         = apr,
   volume        = {7},
   ISSN          = {2644-1268},
   pages         = {659-669},
