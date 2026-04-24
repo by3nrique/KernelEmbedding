@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Partially funded by the Autonomous Community of Madrid (ELLIS Madrid Node). Also partially supported by project PID2022-140786NB-C32 (LATENTIA) and PID2023-152331OA-I00 (HERMES) from the Spanish Ministry of Science and Innovation (AEI/10.13039/501100011033). This work was supported by the CyberFold project, funded by the European Union through the NextGenerationEU instrument (Recovery, Transformation, and Resilience Plan), and managed by Instituto Nacional de Ciberseguridad deEspaña (INCIBE), under reference number ETD202300129
+This work was supported in part by the CyberFold Project, funded by the European Union through the NextGenerationEU instrument (Recovery, Transformation,and Resilience Plan), in part by Instituto Nacional de Ciberseguridad de España (INCIBE), under Grant ETD202300129, in part by the Autonomous Community of Madrid (ELLIS Madrid Node), under Project PID2022-140786NB-C32 (LATENTIA), Project AIA2025-163540-C31 (EmbedWorld), and Project PID2023-152331OA-I00 (HERMES) from the Spanish Ministry of Science and Innovation under Grant AEI/10.13039/501100011033).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e8280cfd-ea9c-4bd6-af51-9d1c1c268279" alt="EU Funding" height="80">
